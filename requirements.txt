@@ -1,0 +1,4 @@
+requests>=2.31.0
+colorama>=0.4.6
+termcolor>=2.3.0
+pystyle>=2.9
