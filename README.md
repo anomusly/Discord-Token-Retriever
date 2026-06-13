@@ -52,9 +52,7 @@ Want something tailored for your needs?
 DM me on Discord with your idea and budget!
 
 🛍️ Store: [https://shop.axilon.app](https://shop.axilon.app)
-
 ---
-
 ## ⚖️ Disclaimer:
 
 > This tool is for **educational purposes only**
