@@ -54,6 +54,5 @@ DM me on Discord with your idea and budget!
 🛍️ Store: [https://shop.axilon.app](https://shop.axilon.app)
 ---
 ## ⚖️ Disclaimer:
-
 > This tool is for **educational purposes only**
 > The developer is **not responsible** for any misuse or violation of Discord’s Terms of Service.
