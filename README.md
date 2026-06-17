@@ -19,8 +19,6 @@
    python main.py
    ```
 
----
-
 ## 🎯 About
 
 A simple and efficient **Discord token generator** that extracts tokens from email:password combinations automatically.
